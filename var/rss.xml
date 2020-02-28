@@ -1,0 +1,70 @@
+<rss version="2.0">
+<channel>
+<title>My new wiki</title>
+<link>http://_:80/index.php</link>
+<description>RSS feed from My new wiki</description>
+<language>en-US</language>
+
+	<item>
+	  <title>Ronaldo's Information</title>
+	  <pubDate>Fri, 28 Feb 2020 15:10:06 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Ronaldo%27s+Information</link>
+	  <description><pre id="diff"><ins>Ronaldo Katriel 
+01082180018
+Informatics</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Aaron's Information</title>
+	  <pubDate>Fri, 28 Feb 2020 15:07:57 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Aaron%27s+Information</link>
+	  <description><pre id="diff"><ins>Aaron Maden Wilson
+01082180011
+Informatics</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main</title>
+	  <pubDate>Fri, 28 Feb 2020 15:03:47 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Main</link>
+	  <description><pre id="diff">Hello, welcome to the main page
+There are 2 pages: [Aaron's <del>Information|http://]</del><ins>Information]</ins> and [Ronaldo's <del>Information|http://]</del><ins>Information]</ins> 
+Feel free to check each of them
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main</title>
+	  <pubDate>Fri, 28 Feb 2020 15:01:30 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Main</link>
+	  <description><pre id="diff">Hello, welcome to the main page
+There are 2 pages: [Aaron's Information|http://] and [Ronaldo's Information|http://]<ins> 
+Feel free to check each of them</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main</title>
+	  <pubDate>Fri, 28 Feb 2020 14:59:27 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Main</link>
+	  <description><pre id="diff">Hello, welcome to the main page
+<ins>There are 2 pages: [Aaron's Information|http://] and [Ronaldo's Information|http://]</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main</title>
+	  <pubDate>Fri, 28 Feb 2020 14:47:33 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Main</link>
+	  <description><pre id="diff"><ins>Hello, welcome to the main page</ins>
+</pre></description>
+	</item>
+
+
+
+
+
+</channel>
+</rss>

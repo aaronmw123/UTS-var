@@ -1,0 +1,34 @@
+<rss version="2.0">
+<channel>
+<title>My new wiki: Comments</title>
+<link>http://_:80/index.php</link>
+<description>RSS comments feed from My new wiki</description>
+<language>en-US</language>
+
+<item>
+	<title>Main</title>
+	<pubDate>Fri, 28 Feb 2020 14:55:59 +0700</pubDate>
+	<link>http://_:80/index.php?page=Main#20200228-1455-59</link>
+	<description><pre>127.0.0.1		
+</pre></description>
+</item>
+
+<item>
+	<title>Main</title>
+	<pubDate>Fri, 28 Feb 2020 14:48:33 +0700</pubDate>
+	<link>http://_:80/index.php?page=Main#20200228-1448-33</link>
+	<description><pre>127.0.0.1	Raka 	raka.widjaja169@gmail.com
+</pre></description>
+</item>
+
+<item>
+	<title>Main</title>
+	<pubDate>Fri, 28 Feb 2020 14:47:52 +0700</pubDate>
+	<link>http://_:80/index.php?page=Main#20200228-1447-52</link>
+	<description><pre>127.0.0.1	Aaron	aaron_m@smak1.penaburcirebon.sch.id
+Hii</pre></description>
+</item>
+
+
+</channel>
+</rss>
